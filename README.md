@@ -1,1 +1,3 @@
 # Amazon_Vine_Analysis
+
+Data expert big market. start up helps businesses optimize marketing efforts. Client, Selby requested heavy analytics. About to release large catalogue of products on a leading retail website want to know how reviews of their products compare to reviews of similar products sold by competitors. Also interested in enrolling in a program that gives free products to select reviewwes but want to know if worth the cost. There are thousands of reviews and they are in words not numbers, will have to translate them in order to analyze them. Selby hired big market because they believe in the power of big data. Partnering with Jennifer, account manager at Big market, 
