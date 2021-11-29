@@ -1,5 +1,6 @@
 # Amazon_Vine_Analysis
 
-##Purpose
+## Purpose
+The Amazon Vine Program is a service that allows manufacturers and publishers to recieve reviews for their products. Companies provide their products to Amazon Vine Members and require them to write reviews for their product by paying a small fee to Amazon. The purpose of this analysis is to examine a dataset containing reviews for a specific products to determine if there is any bias towards favourable reviews from Vine members. The goal is to determine if having a paid Vine review makes a difference in the amount of 5 star reviews the company recieves. 
 
-BigMarket is a company that helps businesses optimize their marketing efforts. Their client is about to release a large catalogue of products on a leading retail website and they want to know how reviews of their products compare to that of their competitors. Also interested in enrolling in a program that gives free products to select reviewwes but want to know if worth the cost. There are thousands of reviews and they are in words not numbers, will have to translate them in order to analyze them. Selby hired big market because they believe in the power of big data. Partnering with Jennifer, account manager at Big market, 
+
