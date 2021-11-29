@@ -12,3 +12,5 @@ The Amazon Vine Program is a service that allows manufacturers and publishers to
 ## Summary
 
 
+## Resources
+Data Sources: Amazon review data from https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Home_Entertainment_v1_00.tsv.gz
