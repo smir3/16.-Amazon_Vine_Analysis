@@ -10,7 +10,9 @@ The Amazon Vine Program is a service that allows manufacturers and publishers to
 - 40.6% of Vine reviews were 5 stars and 53.2% of non-Vine reviews were 5 stars
 
 ## Summary
-Based on this analysis, there is no positive bias for reviews in the Vine Program versus the non-Vine program. This is because the percent of 5 star Vine reviews is than non-Vine reviews. One additional analysis that I could do with the dataset to support this filtering out non-verified purchases.
+Based on this analysis, there is no positive bias for reviews in the Vine Program versus the non-Vine program. This is because the percent of 5 star Vine reviews is than non-Vine reviews. 
+
+Some suggestions for additional analysis are: filtering out the non-verified purchases, natural language processing to cateogrize the review as positive or negative (can compare and compile these results with the star-based analysis), and also grouping to categorize 4-5 stars as positive reviews and less than 4 stars as negative reviews (can re-run the analysis to see if there is now a significant difference between vine-reviews and non-Vine reviews). 
 
 ## Resources
 Data Sources: Amazon review data from https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Home_Entertainment_v1_00.tsv.gz
